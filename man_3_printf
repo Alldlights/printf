@@ -5,7 +5,8 @@
 .SH SYNOPSIS
 To use this function the header file #include main.h" is needed.
 .SH DESCRIPTION
-The _printf() function produces output according to a format which is descried below. This function write its output to the stdout(the standard output stream).
+The _printf() function produces output according to a format which is descried below. 
+This function write its output to the stdout(the standard output stream).
 .SH USAGE
 To use _printf you have to use the following key characters preceeded by % symbol.
 .RS 3
@@ -19,7 +20,8 @@ To use _printf you have to use the following key characters preceeded by % symbo
 .RS 0
 %b: To print a number in binary form
 .SH RETURN VALUES
-The _printf() function returns an integer which shows the number of symbols printed not counting \\0 for the string
+The _printf() function returns an integer which shows the number of symbols 
+printed not counting for the string
 .SH SEE ALSO
 .I printf(3)
 .SH BUGS
