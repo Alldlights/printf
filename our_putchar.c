@@ -10,5 +10,5 @@ int our_putchar(char a)
 	int i;
 
 	i = write(1, &a, 1);
-	return(i);
+	return (i);
 }
